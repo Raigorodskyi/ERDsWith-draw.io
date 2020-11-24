@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-24T16:11:20.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="HqPnnOnzc0GBfkVe2vIe" version="13.10.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-24T16:24:34.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="1r7svoihZnhzKHGDYVkG" version="13.10.2" type="github">
   <diagram id="zd3JXdcBYUBjj5GT9tlU" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="1619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,6 +51,36 @@
         </mxCell>
         <mxCell id="J5I__3lLNlg9c-nMKMZ1-20" value="region_name" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="540" y="260" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-50" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-24" value="location_id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="530" y="-50" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-25" value="street_addresses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-30" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-26" value="postal_code" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-10" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-27" value="city" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-28" value="state_province" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="20" width="100" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-29" value="country_id" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="40" width="70" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-31" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-32" value="&lt;b&gt;igor.locations&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-70" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J5I__3lLNlg9c-nMKMZ1-33" value="pk" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="505" y="-50" width="30" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
